@@ -14,6 +14,7 @@ with a focus on KPIs, targets, and trends.
 - Conditional formatting based on performance levels
 - Filled map synchronized with KPI colors
 - KPI visual with trend and target
+![Dashboard Preview](Safety_Preview.png)
 
 ## Result
 The dashboard enables quick assessment of driving safety performance
