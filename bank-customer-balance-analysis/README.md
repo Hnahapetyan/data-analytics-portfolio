@@ -13,7 +13,7 @@ by education level, job classification, housing status, and marital status.
 - Balance breakdown by education, job classification, and marital status
 - Interactive education slicer
 - Clear separation between KPI and distribution visuals
-![Dashboard Preview](Bank_Preview.png)
+![Dashboard Preview](Balance_Preview.png)
 
 ## Result
 The report supports customer segmentation analysis
