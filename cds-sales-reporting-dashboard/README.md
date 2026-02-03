@@ -18,3 +18,4 @@ supporting exploration and comparison across different time periods.
 ## Result
 The report enables users to explore trends, compare time periods,
 and focus on the most significant records.
+This report simulates a typical operational reporting task.
