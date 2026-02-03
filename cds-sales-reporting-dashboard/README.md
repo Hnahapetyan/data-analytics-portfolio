@@ -14,6 +14,7 @@ supporting exploration and comparison across different time periods.
 - Top 10 filtering by total size
 - Interactive year slicer
 - Bookmarks for different year ranges
+![Dashboard Preview](CD_preview.png)
 
 ## Result
 The report enables users to explore trends, compare time periods,
