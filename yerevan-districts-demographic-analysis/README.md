@@ -12,7 +12,7 @@ to support geographic and demographic insights.
 - Integration of population and area datasets
 - District-level geographic visualization
 - Comparison of demographic indicators across districts
-
+![Dashboard Preview](District_preview.png)
 ## Result
 The dashboard provides insights into demographic distribution
 and supports regional analysis and planning.
