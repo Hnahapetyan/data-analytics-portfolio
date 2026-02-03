@@ -13,7 +13,7 @@ with clean data models, meaningful KPIs, and intuitive user experience.
 - Python (basic)
 
 ## Projects
-- Driving Safety KPI Dashboard
-- CDs Sales Reporting Dashboard
-- Yerevan Districts Demographic Analysis
-- Bank Customer Balance Analysis
+- [Driving Safety KPI Dashboard](./driving-safety-kpi-dashboard)
+- [CDs Sales Reporting Dashboard](./cds-sales-reporting-dashboard)
+- [Yerevan Districts Demographic Analysis](./yerevan-districts-demographic-analysis)
+- [Bank Customer Balance Analysis](./bank-customer-balance-analysis)
