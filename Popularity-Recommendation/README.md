@@ -13,7 +13,7 @@ identifying products frequently bought together to support cross-selling strateg
 - Key metrics cards displaying ordered quantity, total sales, and unique customers
 - Recommendation matrix showing companion products, images, and joint purchase probabilities
 - Custom DAX measures for calculating cross-sell percentages
-![Dashboard Preview](image_682727.png)
+![Dashboard Preview](Popularity Recommendation.pngg)
 
 ## Result
 The report enables users to identify cross-selling opportunities, explore product affinities, 
