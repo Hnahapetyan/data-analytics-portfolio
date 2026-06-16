@@ -13,7 +13,7 @@ Create a reporting dashboard to perform cohort analysis on online retail data, t
 - Retention rate heatmap visualizing the percentage of returning customers over time
 - Dimensional data modeling (Fact and Dim tables) with custom DAX measures for complex cohort calculations
 - Slicer for filtering specific cohort start weeks
-![Dashboard Preview](Customer_Cohort_ and_Retention_Analysis.png)
+![Dashboard Preview](Customer_Cohort_and_Retention_Analysis.png)
 
 ## Result
 The report enables users to identify retention trends, evaluate the long-term value of specific customer cohorts, and monitor overall revenue stability. 
