@@ -15,7 +15,7 @@ Create a reporting dashboard to segment mall customers based on demographic and 
 - Combo chart comparing average annual income and average age by cluster
 - Scatter plot visualizing the relationship between age, spending score, and clusters
 - Interactive slicers for dynamic filtering by gender and cluster
-![Dashboard Preview](Mall_Customers_Segmentation.jxr)
+![Dashboard Preview](Mall_Customers_Segmentation.png)
 
 ## Result
 The report enables users to identify distinct customer segments, explore demographic trends, 
