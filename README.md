@@ -7,10 +7,10 @@ My main focus is building clear, business-oriented dashboards
 with clean data models, meaningful KPIs, and intuitive user experience.
 ## Tools & Technologies
 - Power BI
-- Excel (Advanced)
+- Excel 
 - Power Query
 - SQL
-- Python (basic)
+- Python 
 
 ## Projects
 - [Advanced Sales Analysis & Forecasting Dashboard](./Sales-Analysis-and-Forecasting)
