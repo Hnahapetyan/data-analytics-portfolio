@@ -19,13 +19,13 @@ Create a comprehensive reporting dashboard to analyze historical sales data, eva
 - **Seamless Navigation:** Designed a multi-page layout with interactive bookmarking and button navigation for a smooth user experience.
 
 ### 1. Sales Analysis (Main Page)
-![Sales Analysis Page](sales_analysis.png)
+![Sales Analysis Page](Sales_Analysis_Project.png)
 
 ### 2. ABC-XYZ Analysis
-![ABC-XYZ Analysis Page](abc_xyz_analysis.png)
+![ABC-XYZ Analysis Page](ABC-XYZ_Analysis.png)
 
 ### 3. Sales Performance and Forecast
-![Sales Forecast Page](sales_forecast.png)
+![Sales Forecast Page](Sales_Performance_and_Forecast.png)
 
 ## Result
 The report enables stakeholders to optimize inventory management, adjust pricing strategies, prioritize high-value stable products, and make data-driven future projections based on historical patterns[cite: 6]. 
