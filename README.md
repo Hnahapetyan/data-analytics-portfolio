@@ -13,7 +13,11 @@ with clean data models, meaningful KPIs, and intuitive user experience.
 - Python (basic)
 
 ## Projects
+- [Advanced Sales Analysis & Forecasting Dashboard](./Sales-Analysis-and-Forecasting)
+- [Customer Cohort and Retention Analysis Dashboard](./Customer-Cohort-Retention)
+- [Mall Customers Segmentation Dashboard](./Mall-Customers-Segmentation)
+- [Popularity Recommendation Dashboard](./Popularity-Recommendation)
+- [Bank Customer Balance Analysis Dashboard](./bank-customer-balance-analysis)
 - [Driving Safety KPI Dashboard](./driving-safety-kpi-dashboard)
 - [CDs Sales Reporting Dashboard](./cds-sales-reporting-dashboard)
 - [Yerevan Districts Demographic Analysis](./yerevan-districts-demographic-analysis)
-- [Bank Customer Balance Analysis](./bank-customer-balance-analysis)
